@@ -1,12 +1,12 @@
 /*
+Eggbot Playback using Openlog
+By: Jasper Nance
 BASED ON 
  Example of reading the disk properties on OpenLog
  By: Nathan Seidle
  SparkFun Electronics
  Date: September 22nd, 2013
- License: This code is public domain but you buy me a beer if you use this and we meet someday (Beerware license).
-
- This is an example of issuing the 'disk' command and seeing how big the current SD card is.
+ License: This code is public domain but you buy me a beer if you use this and we meet someday (Beerware license)
  
  Connect the following OpenLog to Arduino:
  RXI of OpenLog to pin 2 on the Arduino
